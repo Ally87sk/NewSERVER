@@ -1,51 +1,47 @@
 #EXTM3U
-#EXTINF:-1,AXN HD
+#EXTINF:-1,tvg-name="AXN HD", AXN HD
 http://181.198.67.2:8024/play/a08n/index.m3u8
-#EXTINF:-1,Cartoon Network HD
+#EXTINF:-1,tvg-name="CARTOON NETWORK HD", Cartoon Network HD
 http://181.198.67.2:8024/play/a0ai/index.m3u8
-#EXTINF:-1,Comedy Central HD
+#EXTINF:-1, tvg-name="COMEDY CENTRAL HD", Comedy Central HD
 http://181.198.67.2:8024/play/a09a/index.m3u8
-#EXTINF:-1,Discovery H&H HD
+#EXTINF:-1, tvg-name="DISCOVERY CHANNEL HD", Discovery H&H HD
 http://181.198.67.2:8024/play/a09u/index.m3u8
-#EXTINF:-1,Discovery Theater HD
+#EXTINF:-1,tvg-name="DISCOVERY THEATER HD", Discovery Theater HD
 http://181.198.67.2:8024/play/a09v/index.m3u8
-#EXTINF:-1,ESPN EXTRA HD
+#EXTINF:-1,tvg-name="ESPN EXTRA HD", ESPN EXTRA HD
 http://181.198.67.2:8024/play/a0ag/index.m3u8
-#EXTINF:-1,ElCanaldelFutbol HD
+#EXTINF:-1,tvg-name="FUTEBOL 1 HD", ElCanaldelFutbol HD
 http://181.198.67.2:8024/play/a0b5/index.m3u8
-#EXTINF:-1,FOX Sports 2 HD
+#EXTINF:-1,tvg-name="FOX SPLORTS 2 HD", FOX Sports 2 HD
 http://181.198.67.2:8024/play/a0a1/index.m3u8
-#EXTINF:-1,GolTV HD
+#EXTINF:-1,tvg-name="GOLTV" GolTV HD
 http://181.198.67.2:8024/play/a0ay/index.m3u8
-#EXTINF:-1,Golden HD
+#EXTINF:-1,tvg-name="GOLDEN", Golden HD
 http://181.198.67.2:8024/play/a0at/index.m3u8
-#EXTINF:-1,HBO Signature HD
+#EXTINF:-1,tvg-name="HBO SIGNATURE HD", HBO Signature HD
 http://181.198.67.2:8024/play/a09n/index.m3u8
-#EXTINF:-1,History 2 HD
+#EXTINF:-1,tvg-name="HISTOY 2 HD", History 2 HD
 http://181.198.67.2:8024/play/a0bh/index.m3u8
-#EXTINF:-1,History Channel HD
+#EXTINF:-1,tvg-name="HISTORY CHANNEL HD", History Channel HD
 http://181.198.67.2:8024/play/a08j/index.m3u8
-#EXTINF:-1,Las Estrellas HD
+#EXTINF:-1,tvg-name="LAS ESTRELLAS HD", Las Estrellas HD
 http://181.198.67.2:8024/play/a0ba/index.m3u8
-#EXTINF:-1,Movistar Deportes HD
+#EXTINF:-1,tvg-name="MOVISTAR HD"< Movistar Deportes HD
 http://181.198.67.2:8024/play/a0ar/index.m3u8
-#EXTINF:-1,Nat Geo Wild HD
+#EXTINF:-1,tvg-name="NAT GEO WILD HD", Nat Geo Wild HD
 http://181.198.67.2:8024/play/a09w/index.m3u8
-#EXTINF:-1,Paramount HD
+#EXTINF:-1,tvg-name="PARAMOUNT HD", Paramount HD
 http://181.198.67.2:8024/play/a0aj/index.m3u8
-#EXTINF:-1,Pasiones HD
-http://181.198.67.2:8024/play/a090/index.m3u8
-#EXTINF:-1,Playboy HD
-http://181.198.67.2:8024/play/a0a3/index.m3u8
-#EXTINF:-1,STAR ACTION HD
+#EXTINF:-1,tvg-name="STAR ACTION HD", STAR ACTION HD
 http://181.198.67.2:8024/play/a0bn/index.m3u8
-#EXTINF:-1,STAR ACTION HD
+#EXTINF:-1,tvg-name="STAR CHANNEL HD", STAR ACTION HD
 http://181.198.67.2:8024/play/a0bd/index.m3u8
-#EXTINF:-1,STAR CHANNEL HD
+#EXTINF:-1,tvg-name="STAR CHANNEL SD", STAR CHANNEL HD
 http://181.198.67.2:8024/play/a09x/index.m3u8
-#EXTINF:-1,STAR COMEDY HD
+#EXTINF:-1,tvg-name="STAR COMEDY HD", STAR COMEDY HD
 http://181.198.67.2:8024/play/a0be/index.m3u8
-#EXTINF:-1,STAR FUN HD
+#EXTINF:-1,tvg-name="STAR FUN HD", STAR FUN HD
 http://181.198.67.2:8024/play/a08v/index.m3u8
 #EXTINF:-1,STAR HITS HD
 http://181.198.67.2:8024/play/a0bf/index.m3u8
